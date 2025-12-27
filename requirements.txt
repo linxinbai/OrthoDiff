@@ -1,0 +1,40 @@
+#torch>=1.12.0
+#torchvision>=0.13.0
+#torchaudio>=0.12.0
+
+
+torch>=2.2.0
+torchvision>=0.17.0
+# torchaudio optional for this project; include if audio ops used
+# torchaudio>=2.2.0
+
+
+monai>=1.3.0
+
+
+trimesh>=3.15.0
+scipy>=1.10.0
+scikit-image>=0.20.0
+matplotlib>=3.7.0
+
+
+numpy>=1.23.0
+pandas>=2.0.0
+
+
+# NIfTI IO
+nibabel>=5.0.0
+
+
+# Medical image utilities
+medpy>=0.4.0
+
+
+# progress
+# tqdm already listed below; keeping order
+
+tqdm>=4.64.0
+
+
+pyyaml>=6.0
+pillow>=10.0.0
